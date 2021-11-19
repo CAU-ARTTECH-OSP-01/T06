@@ -1,0 +1,15 @@
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\bin\Debug\netstandard2.0\OSP_project02.deps.json
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\bin\Debug\netstandard2.0\OSP_project02.dll
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\bin\Debug\netstandard2.0\ref\OSP_project02.dll
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\bin\Debug\netstandard2.0\OSP_project02.pdb
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\obj\Debug\netstandard2.0\OSP_project02.csproj.AssemblyReference.cache
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\obj\Debug\netstandard2.0\OSP_project02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\obj\Debug\netstandard2.0\OSP_project02.AssemblyInfoInputs.cache
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\obj\Debug\netstandard2.0\OSP_project02.AssemblyInfo.cs
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\obj\Debug\netstandard2.0\OSP_project02.csproj.CoreCompileInputs.cache
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\obj\Debug\netstandard2.0\OSP_project02.dll
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\obj\Debug\netstandard2.0\ref\OSP_project02.dll
+C:\Users\pyjra\source\repos\OSP_project02\OSP_project02\OSP_project02\obj\Debug\netstandard2.0\OSP_project02.pdb
