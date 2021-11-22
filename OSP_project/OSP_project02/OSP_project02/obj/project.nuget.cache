@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cah7gl0ZZdNB46n1/JxGoouHaaEPkSrvON5jP7eSBXa5cxQvQWTPmgZCJ2hoz4QVHALahmgPJ/NrRI9wHq/nHQ==",
+  "dgSpecHash": "zupN7ZQlWJW7TPPjaLgonCf0DDPoxAHeLh+IN60HtboUlgr+UKHDiqpBsatERXr7eC/pY6CmJLSShe7HemAW2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pyjra\\source\\repos\\OSP_project02\\OSP_project02\\OSP_project02\\OSP_project02.csproj",
+  "projectFilePath": "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02\\OSP_project02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pyjra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\pyjra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

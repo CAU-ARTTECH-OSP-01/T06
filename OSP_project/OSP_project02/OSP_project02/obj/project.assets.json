@@ -540,11 +540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pyjra\\source\\repos\\OSP_project02\\OSP_project02\\OSP_project02\\OSP_project02.csproj",
+      "projectUniqueName": "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02\\OSP_project02.csproj",
       "projectName": "OSP_project02",
-      "projectPath": "C:\\Users\\pyjra\\source\\repos\\OSP_project02\\OSP_project02\\OSP_project02\\OSP_project02.csproj",
+      "projectPath": "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02\\OSP_project02.csproj",
       "packagesPath": "C:\\Users\\pyjra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pyjra\\source\\repos\\OSP_project02\\OSP_project02\\OSP_project02\\obj\\",
+      "outputPath": "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
