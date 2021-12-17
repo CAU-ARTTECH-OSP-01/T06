@@ -5,23 +5,32 @@
 
     <StackLayout Margin="0,35,0,0"
              x:Name="stackLayout">
-        <Label Text="Click the button below to create a local notification."
-           TextColor="Red"
+        <Label Text="Notification for 30 minutes of screen time."
+           TextColor="white"
            HorizontalOptions="Center"
            VerticalOptions="Start" />
-        <Button Text="Create Notification"
+        <Button Text="30 minutes"
             HorizontalOptions="Center"
             VerticalOptions="Start"
-            Clicked="OnSendClick" />
-        <Label Text="Click the button below to schedule a local notification for in 10 seconds time."
-           TextColor="Red"
+            Clicked="OnScheduleClick1" />
+        <Label Text="Notification for 1 hour of screen time."
+           TextColor="white"
            HorizontalOptions="Center"
            VerticalOptions="Start" />
-        <Button Text="Create Notification"
+        <Button Text="1 hour"
             HorizontalOptions="Center"
             VerticalOptions="Start"
-            Clicked="OnScheduleClick" />
+            Clicked="OnScheduleClick2" />
+        <Label Text="Notification for 2 hours of screen time."
+           TextColor="white"
+           HorizontalOptions="Center"
+           VerticalOptions="Start" />
+        <Button Text="2 hour"
+            HorizontalOptions="Center"
+            VerticalOptions="Start"
+            Clicked="OnScheduleClick3" />
     </StackLayout>
 
 </ContentPage>
+
 

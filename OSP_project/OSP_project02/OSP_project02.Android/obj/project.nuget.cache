@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IjHoHgT7edtLn1v4+6fuYElqSFABBCwXCLJMpBqkjBuv48j0+5RNNqXBlwgw+qHErZsLOza3Ka+NweVkr6G7yw==",
+  "dgSpecHash": "8PUQgwTVRIvBE/1LiUYuyi0ihkEKH8kgPO1JxXcoAdA0AdrX7+1ihZgvb9xmLnFXLEq6wHV3OmeVdVCxgblKpA==",
   "success": true,
-  "projectFilePath": "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02.Android\\OSP_project02.Android.csproj",
+  "projectFilePath": "C:\\OSP\\T06\\OSP_project\\OSP_project02\\OSP_project02.Android\\OSP_project02.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pyjra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

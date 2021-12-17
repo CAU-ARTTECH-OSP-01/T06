@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02.Android\\OSP_project02.Android.csproj": {}
+    "C:\\OSP\\T06\\OSP_project\\OSP_project02\\OSP_project02.Android\\OSP_project02.Android.csproj": {}
   },
   "projects": {
-    "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02.Android\\OSP_project02.Android.csproj": {
+    "C:\\OSP\\T06\\OSP_project\\OSP_project02\\OSP_project02.Android\\OSP_project02.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02.Android\\OSP_project02.Android.csproj",
+        "projectUniqueName": "C:\\OSP\\T06\\OSP_project\\OSP_project02\\OSP_project02.Android\\OSP_project02.Android.csproj",
         "projectName": "OSP_project02.Android",
-        "projectPath": "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02.Android\\OSP_project02.Android.csproj",
+        "projectPath": "C:\\OSP\\T06\\OSP_project\\OSP_project02\\OSP_project02.Android\\OSP_project02.Android.csproj",
         "packagesPath": "C:\\Users\\pyjra\\.nuget\\packages\\",
-        "outputPath": "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02.Android\\obj\\",
+        "outputPath": "C:\\OSP\\T06\\OSP_project\\OSP_project02\\OSP_project02.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02\\OSP_project02.csproj": {
-                "projectPath": "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02\\OSP_project02.csproj"
+              "C:\\OSP\\T06\\OSP_project\\OSP_project02\\OSP_project02\\OSP_project02.csproj": {
+                "projectPath": "C:\\OSP\\T06\\OSP_project\\OSP_project02\\OSP_project02\\OSP_project02.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02\\OSP_project02.csproj": {
+    "C:\\OSP\\T06\\OSP_project\\OSP_project02\\OSP_project02\\OSP_project02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02\\OSP_project02.csproj",
+        "projectUniqueName": "C:\\OSP\\T06\\OSP_project\\OSP_project02\\OSP_project02\\OSP_project02.csproj",
         "projectName": "OSP_project02",
-        "projectPath": "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02\\OSP_project02.csproj",
+        "projectPath": "C:\\OSP\\T06\\OSP_project\\OSP_project02\\OSP_project02\\OSP_project02.csproj",
         "packagesPath": "C:\\Users\\pyjra\\.nuget\\packages\\",
-        "outputPath": "C:\\T06\\OSP_project\\OSP_project02\\OSP_project02\\obj\\",
+        "outputPath": "C:\\OSP\\T06\\OSP_project\\OSP_project02\\OSP_project02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
